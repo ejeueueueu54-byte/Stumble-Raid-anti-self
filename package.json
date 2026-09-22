@@ -1,0 +1,12 @@
+{
+  "name": "anti-mensagem-bot",
+  "version": "1.0.0",
+  "description": "Bot Discord com canal protegido, imagem personalizada e contador de expulsões.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.21.0"
+  }
+}
