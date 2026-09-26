@@ -121,7 +121,7 @@ client.on("interactionCreate", async interaction => {
     try {
       const embed = new EmbedBuilder()
         .setTitle(")
-        .setDescription("Este canal é somente para informações e avisos oficiais.")
+        .setDescription(".")
         .setColor(0xff0000);
 
       if (data.imageUrl) embed.setImage(data.imageUrl);
