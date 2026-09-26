@@ -120,7 +120,7 @@ client.on("interactionCreate", async interaction => {
 
     try {
       const embed = new EmbedBuilder()
-        .setTitle("🚫 NÃO ENVIE MENSAGENS NESTE CANAL")
+        .setTitle(")
         .setDescription("Este canal é somente para informações e avisos oficiais.")
         .setColor(0xff0000);
 
